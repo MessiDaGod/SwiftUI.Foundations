@@ -1,0 +1,5 @@
+"accessibility.button.group" = "Button Group";
+"accessibility.button.radio.button.group" = "Radio Button Group";
+
+"accessibility.rating.view.label" = "Rating";
+"accessibility.rating.view.value.%@" = "%@ stars";
